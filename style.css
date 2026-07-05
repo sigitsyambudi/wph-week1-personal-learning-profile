@@ -3,9 +3,27 @@ body {
   max-width: 900px;
   margin: 40px auto;
   line-height: 1.6;
+  font-size: 18px;
+  padding: 0 20px;
+}
+html {
+  scroll-behavior: smooth;
 }
 header {
   margin-bottom: 40px;
+}
+h1 {
+  color: #1e293b;
+}
+h2 {
+  color: #0f172a;
+}
+.profile-image {
+  border-radius: 12px;
+  transition: transform 0.3s ease;
+}
+.profile-image:hover {
+  transform: scale(1.05);
 }
 nav a {
   margin-right: 12px;
@@ -20,6 +38,10 @@ section {
   padding: 20px;
   border: 1px solid #ddd;
   border-radius: 10px;
+}
+.highlight {
+  color: #2563eb;
+  font-weight: bold;
 }
 aside {
   padding: 20px;
