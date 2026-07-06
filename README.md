@@ -34,3 +34,7 @@ A mini project built to practice HTML, CSS, and Git fundamentals through the WPH
 **Sigit Syambudi**
 
 - GitHub: [@sigitsyambudi](https://github.com/sigitsyambudi)
+
+## Live Demo
+
+🌐 https://sigitsyambudi.github.io/wph-week1-personal-learning-profile/
